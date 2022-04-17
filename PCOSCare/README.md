@@ -1,13 +1,3 @@
-# PCOSmopolitan
-PCOS Detection system using an accessible UX for everyone
+ PCOSCare:
+ Identifying PCOS is tricky due to several manifestations, gynecological, clinical and metabolic parameters involved in diagnosing it. The time needed for various clinical tests and ovary scanning, also the financial expenses has become a hardship to the patients with PCOS. This is one of the main reasons for women to neglect the symptoms in initial stages and then later suffer from complications created by PCOS. It is not possible for everyone to afford these tests and scanning. To address this problem this project proposes a symptom evaluating and monitoring system using which the risk of developing PCOS can be predicted and the patients can be advised to consult a doctor and undergo tests and scanning only when the risk is high.
 
-PCOSmopolitan is a futuristic solution to combat the disparity amongst PCOS patients who have little or NIL information, the app does the early detection of pcos with an efficient UI(early detection of pcos with an accessible UX). It includes QnA with the patient in a form of a quiz to fulfill and predict the best med/Gynae.
-
-<a href="https://imgur.com/00aKlZg"><img src="https://i.imgur.com/00aKlZg.png" title="source: imgur.com" height=200 width=200/></a>
-
-## Getting Started
-
- ## Tech Stack
-
-| HTML | CSS | Flask | JavaScript | jQuery | scikit-learn |
- | :---: | :---: | :---: | :---: | :---: | :---: | 
